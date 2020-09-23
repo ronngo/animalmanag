@@ -1,0 +1,4 @@
+D:\baitap\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.csprojAssemblyReference.cache
+D:\baitap\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.AssemblyInfoInputs.cache
+D:\baitap\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.AssemblyInfo.cs
+D:\baitap\animalmanagementsystem\obj\Debug\netcoreapp3.1\animalmanagementsystem.csproj.CoreCompileInputs.cache
